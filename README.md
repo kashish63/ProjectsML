@@ -15,3 +15,7 @@ A prediction method can detect whether a woman is diabetic or not based on datas
 
 A project on predicting fake news using machine learning and Python. This project uses a dataset with features like id, title, author, and text to predict if a news is fake or real.
 We will be using Logistic Regression model for prediction
+
+**Project 4. Loan Status Prediction**
+
+A model that can predict the loan status of person by his personal deatails like Gender, Married, Dependents(kids), Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History and Property_Area. We are using support vector machine model for the prediction.
