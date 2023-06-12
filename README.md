@@ -18,4 +18,4 @@ We will be using Logistic Regression model for prediction
 
 **Project 4. Loan Status Prediction**
 
-A model that can predict the loan status of person by his personal deatails like Gender, Married, Dependents(kids), Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History and Property_Area. We are using support vector machine model for the prediction.
+A model that can predict the loan status of person by his personal details like Gender, Married, Dependents(kids), Education, Self Employed, Applicant Income, Coapplicant Income, Loan Amount, Loan Amount Term, Credit History and Property Area. We are using support vector machine model for the prediction.
