@@ -19,3 +19,11 @@ We will be using Logistic Regression model for prediction
 **Project 4. Loan Status Prediction**
 
 A model that can predict the loan status of person by his personal details like Gender, Married, Dependents(kids), Education, Self Employed, Applicant Income, Coapplicant Income, Loan Amount, Loan Amount Term, Credit History and Property Area. We are using support vector machine model for the prediction.
+
+**Project 5. House Price Prediction**
+
+A model that can predict the House Price by house details like Id, MSSubClass(Identifies the type of dwelling involved in the sale), MSZoning(Identifies the general zoning classification of the sale), LotArea(Lot size in square feet), LotConfig(Configuration of the lot), BldgType(Type of dwelling), OverallCond(Rates the overall condition of the house), YearBuilt(Original construction year), YearRemodAdd(Remodel date (same as construction date if no remodeling or additions)), Exterior1st(Exterior covering on house), BsmtFinSF2(Type 2 finished square feet), TotalBsmtSF(Total square feet of basement area), SalePrice(To be predicted) which are given in the boston dataset. It is a Regression Problem which we are solving using XGBoost model. 
+
+**Project 6. Wine Quality Prediction**
+
+A model that can predict Wine Quality by its features like fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol and quality. We are using support vector machine model for the prediction.
